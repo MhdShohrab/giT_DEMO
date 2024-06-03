@@ -16,7 +16,7 @@ const ProfileSection = () => {
                 />
               </div>
               <div className="profile-name">
-                <span>Shraddha Agarwal- Founder Izzki</span>
+                <span>Shraddha Agarwal-head</span>
               </div>
             </div>
             <div className="right-section">
